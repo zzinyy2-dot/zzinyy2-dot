@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. 👋
 
 <!--
 **zzinyy2-dot/zzinyy2-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
